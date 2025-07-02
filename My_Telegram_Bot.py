@@ -4,7 +4,7 @@ from telegram.constants import ParseMode
 import telegram.error
 
 # Use environment variables or a secure vault for real deployment
-BOT_TOKEN = "8105144524:AAG3Fguk29tG5VifIrXVSHrRI9yhFpN6ejo"
+BOT_TOKEN = "7904549160:AAG4Ah1OmXApfQOtULR2jHHH8CONMxa739Q"
 CHAT_ID = "-1002752208616"  # Can be a user ID, group ID, or @channelusername
 
 async def post_to_telegram(text_content):
